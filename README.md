@@ -5,7 +5,8 @@ under the GPL. It will answer the chip's commands with the same results as the o
 emulators can run the game without the original chip's program, which is the console
 maker's code.
 
-**Status:** just started; nothing to use yet.
+**Status:** the command protocol is mapped ([docs/protocol.md](docs/protocol.md)); the
+commands themselves are next. Nothing to use yet.
 
 Made by [StackBlender](https://stackblender.com) for Super Apollo, an emulator that plays
 SNES games fast with their music at normal speed. Its other chips are published the same
